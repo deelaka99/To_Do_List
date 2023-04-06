@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">To-Do-List</string>
+    <string name="title">Title: </string>
+    <string name="desc">Description: </string>
+    <string name="addTask">Add Task</string>
+    <string name="viewTask">View Task List</string>
+    <string name="updateTask">Update Task</string>
+    <string name="deleteTask">Delete Task</string>
+    <string name="titleHint">Enter a new Title</string>
+    <string name="descriptionHint">Enter the description</string>
+    <string name="marksHint">Enter Marks</string>
+    <string name="idHint">Enter ID to Update and Delete</string>
+</resources>
