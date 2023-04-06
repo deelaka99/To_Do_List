@@ -8,6 +8,6 @@
     <string name="deleteTask">Delete Task</string>
     <string name="titleHint">Enter a new Title</string>
     <string name="descriptionHint">Enter the description</string>
-    <string name="marksHint">Enter Marks</string>
+    <string name="credit">Created By Deelaka Wejith Kariyawasam</string>
     <string name="idHint">Enter ID to Update and Delete</string>
 </resources>
